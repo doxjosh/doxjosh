@@ -8,7 +8,7 @@ I'm a Sophmore in High School, and I code as a Hobby.
 
 - 📫 You can ping me at my [email](mailto:theglobegames@gmail.com).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlobalwideGames&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?organizations=GlobalwideGames&theme=github_dark)
 <hr>
 <h2>Jokes</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
