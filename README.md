@@ -4,9 +4,9 @@
 <h2>About</h2>
 I'm a Sophmore in High School, and I code as a Hobby.
 
-- 🌕 I’m currently working on my game website and a unblocker!
+- I’m currently working on my game website and a unblocker!
 
-- 📫 You can ping me at my [email](mailto:theglobegames@gmail.com).
+- You can contact me at my [email](mailto:theglobegames@gmail.com).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlobeTheDev&theme=github_dark)
 <hr>
