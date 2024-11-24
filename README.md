@@ -7,7 +7,6 @@
 - 👨‍💻 I am a football player and I am the lead student in my schools cybersecurity class
 - 📙 I can speak English and Spanish
 - 🔭 I dont know where I want to be, but I want to major in Computer Science -and/or- Cybersecurity!
-- 🏞️ I live in Alexandria, Va
 - 📫 Contact me at my [email](mailto:theglobegames@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlobeTheDev&theme=github_dark)
