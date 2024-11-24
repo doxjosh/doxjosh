@@ -2,6 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://notamplify.online">Globe</a></h1>
 <h3 align="center">A Javascript Enthusiast, Fullstack Dev</h3>
 <h2>About</h2>
+
 - 🏫 I am a Sophomore in High School (16)
 - 👨‍💻 I am a football player and I am the lead student in my schools cybersecurity class
 - 📙 I can speak English and Spanish
