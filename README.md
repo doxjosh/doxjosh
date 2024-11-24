@@ -4,7 +4,7 @@
 <h2>About</h2>
 I'm a Sophmore in High School, and I code as a Hobby.
 
-- 🌕 I’m currently working on [GlobeNetwork](https://github.com/GlobalwideGames), and its projects!
+- 🌕 I’m currently working on my game website and a unblocker!
 
 - 📫 You can ping me at my [email](mailto:theglobegames@gmail.com).
 
