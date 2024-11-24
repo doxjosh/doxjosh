@@ -9,6 +9,15 @@
 - 🔭 I dont know where I want to be, but I want to major in Computer Science -and/or- Cybersecurity!
 - 📫 Contact me at my [email](mailto:theglobegames@gmail.com)
 
+<h2 align="center">
+	<div>
+		<img
+			src="https://komarev.com/ghpvc/?username=GlobeTheDev&color=979797&style=for-the-badge&label=Profile+Views"
+			alt="Profile Views"
+		/>
+	</div>
+</h2>
+
 <h1></h1>
 
 <div align="center">
@@ -31,13 +40,3 @@
 		/>
 	</a>
 </div>
-
-
-<h2 align="center">
-	<div>
-		<img
-			src="https://komarev.com/ghpvc/?username=GlobeTheDev&color=979797&style=for-the-badge&label=Profile+Views"
-			alt="Profile Views"
-		/>
-	</div>
-</h2>
