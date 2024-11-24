@@ -21,26 +21,6 @@
 <h1></h1>
 
 <div align="center">
-	<img
-		width="800"
-		align="center"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=GlobeTheDev&theme=tokyonight&no-bg=true&hide_border=true"
-	/>
-</div>
-
-<h1></h1>
-
-<div align="center">
-	<img
-		width="800"
-		align="center"
-		src="https://streak-stats.demolab.com?user=GlobeTheDev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
-	/>
-</div>
-
-<h1></h1>
-
-<div align="center">
 	<a
 		href="https://github.com/ryo-ma/github-profile-trophy"
 	>
