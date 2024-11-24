@@ -9,6 +9,8 @@
 - 🔭 I dont know where I want to be, but I want to major in Computer Science -and/or- Cybersecurity!
 - 📫 Contact me at my [email](mailto:theglobegames@gmail.com)
 
+<h1></h1>
+
 <div align="center">
 	<img
 		width="800"
