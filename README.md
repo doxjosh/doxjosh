@@ -9,11 +9,6 @@
 - 🔭 I dont know where I want to be, but I want to major in Computer Science -and/or- Cybersecurity!
 - 📫 Contact me at my [email](mailto:theglobegames@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlobeTheDev&theme=github_dark)
-<hr>
-<h2>Jokes</h2>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
 <div align="center">
 	<img
 		width="800"
