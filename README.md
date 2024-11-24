@@ -18,8 +18,6 @@
 	</div>
 </h2>
 
-<h1></h1>
-
 <div align="center">
 	<img
 		width="800"
