@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hi!+I'm+Globe!;Javascript+enthusiast;Owner+of+Globalwide+Games">
-<h1 align="center">Hi, I'm Globe</h1>
+<h1 align="center">Hi, I'm Josh</h1>
 <h3 align="center">A Javascript Enthusiast, Fullstack Dev</h3>
 <h2>About</h2>
 
