@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hi!+I'm+Globe!;Javascript+enthusiast;Owner+of+Globalwide+Games">
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hi!+I'm+Josh!;Javascript+enthusiast;Owner+of+Globalwide+Games">
 <h1 align="center">Hi, I'm Josh</h1>
 <h3 align="center">A Javascript Enthusiast, Fullstack Dev</h3>
 <h2>About</h2>
@@ -14,7 +14,7 @@
 <div align="center">
 	<img
 		width="800"
-		src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GlobeTheDev&theme=tokyonight"
+		src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imm-josh&theme=tokyonight"
 	/>
 </div>
 
@@ -27,7 +27,7 @@
 		<img
 			width="800"
 			align="center"
-			src="https://github-profile-trophy.vercel.app/?username=GlobeTheDev&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-frame=true"
+			src="https://github-profile-trophy.vercel.app/?username=imm-josh&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-frame=true"
 		/>
 	</a>
 </div>
@@ -35,7 +35,7 @@
 <h2 align="center">
 	<div>
 		<img
-			src="https://komarev.com/ghpvc/?username=GlobeTheDev&color=979797&style=for-the-badge&label=Profile+Views"
+			src="https://komarev.com/ghpvc/?username=imm-josh&color=979797&style=for-the-badge&label=Profile+Views"
 			alt="Profile Views"
 		/>
 	</div>
