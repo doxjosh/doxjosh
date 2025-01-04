@@ -7,7 +7,7 @@
 - 👨‍💻 I am a football player and I am the lead student in my schools cybersecurity class
 - 📙 I can speak English and Spanish
 - 🔭 I dont know where I want to be, but I want to major in Computer Science -and/or- Cybersecurity!
-- 📫 Contact me at my [email](mailto:theglobegames@gmail.com)
+- 📫 Contact me at my [email](mailto:doxjosh@proton.me)
 
 <h1></h1>
 
