@@ -1,13 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hi!+I'm+Josh!;Javascript+enthusiast;Owner+of+Globalwide+Games">
 <h1 align="center">Hi, I'm Josh</h1>
 <h3 align="center">A Javascript Enthusiast, Fullstack Dev</h3>
-<h2>About</h2>
-
-- 🏫 I am a Sophomore in High School (16)
-- 👨‍💻 I am a football player and I am the lead student in my schools cybersecurity class
-- 📙 I can speak English and Spanish
-- 🔭 I dont know where I want to be, but I want to major in Computer Science -and/or- Cybersecurity!
-- 📫 Contact me at my [email](mailto:doxjosh@proton.me)
 
 <h1></h1>
 
